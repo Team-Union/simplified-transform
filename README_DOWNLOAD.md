@@ -11,7 +11,12 @@
 
 ![https://i.ibb.co/r7J2gcJ/image.png](https://i.ibb.co/r7J2gcJ/image.png)
 
-3. HTML 파일을 연 뒤, <script src="./js/simplified-transform.min.js"> 식으로 js를 불러와 주시면 끝!
+3. HTML 파일을 연 뒤, 
+
+```html
+<script src="./js/simplified-transform.min.js">
+```
+위와 같이 js를 불러와 주시면 끝!
 
 ## Copyright & Use Open Source
 + Copyright 2020 int Team. All Rights Reserved.

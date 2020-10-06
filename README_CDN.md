@@ -2,7 +2,13 @@
 + Made By int Team.
 
 ## 사용법
-1. HTML 파일을 연 뒤, <script src="https://cdn.intteam.co.kr/simplified-transform/js/simplified-transform.min.js"> 식으로 js를 불러와 주시면 끝!
+1. HTML 파일을 연 뒤, 
+
+```html
+<script src="https://cdn.intteam.co.kr/simplified-transform/js/simplified-transform.min.js">
+```
+
+위와 같이 js를 불러와 주시면 끝!
 
 ## Copyright & Use Open Source
 + Copyright 2020 int Team. All Rights Reserved.

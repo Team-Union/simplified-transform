@@ -5,7 +5,7 @@
 1. HTML 파일을 연 뒤, 
 
 ```html
-<script src="https://cdn.intteam.co.kr/simplified-transform/js/simplified-transform.min.js">
+<script src="https://cdn.intteam.co.kr/simplified-transform/simplified-transform.min.js">
 ```
 
 위와 같이 js를 불러와 주시면 끝!

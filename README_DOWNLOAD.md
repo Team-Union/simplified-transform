@@ -13,8 +13,6 @@
 
 3. HTML 파일을 연 뒤, <script src="./js/simplified-transform.min.js"> 식으로 js를 불러와 주시면 끝!
 
-![https://i.ibb.co/zGXq2tq/1.png](https://i.ibb.co/zGXq2tq/1.png)
-
 ## Copyright & Use Open Source
 + Copyright 2020 int Team. All Rights Reserved.
 

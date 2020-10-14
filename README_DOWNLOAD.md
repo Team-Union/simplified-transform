@@ -11,7 +11,7 @@
 
 ![https://i.ibb.co/r7J2gcJ/image.png](https://i.ibb.co/r7J2gcJ/image.png)
 
-3. HTML 파일을 연 뒤, 
+3. 모듈을 적용 하고 싶은 HTML 파일을 연 뒤, 
 
 ```html
 <script src="./js/simplified-transform.js">

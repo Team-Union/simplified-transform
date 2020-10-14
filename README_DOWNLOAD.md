@@ -2,7 +2,7 @@
 + Made By int Team.
 
 ## 사용법
-1. 아래의 방법을 보고 이 플러그인을 다운로드 받습니다.
+1. 아래의 방법을 보고 이 플러그인을 다운로드 받습니다. (꼭 DOWNLOAD 브랜치에서 다운로드 해주세요. DEV 브랜치는 개발 중이므로 불안정 합니다.)
 
 ![https://i.ibb.co/3NBDvfC/image.png](https://i.ibb.co/3NBDvfC/image.png)
 ![https://i.ibb.co/FWZR7n0/image.png](https://i.ibb.co/FWZR7n0/image.png)
@@ -11,7 +11,7 @@
 
 ![https://i.ibb.co/r7J2gcJ/image.png](https://i.ibb.co/r7J2gcJ/image.png)
 
-3. HTML 파일을 연 뒤, 
+3. 모듈을 적용 하고 싶은 HTML 파일을 연 뒤, 
 
 ```html
 <script src="./js/simplified-transform.js">

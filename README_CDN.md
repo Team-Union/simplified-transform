@@ -2,7 +2,7 @@
 + Made By int Team.
 
 ## 사용법
-1. HTML 파일을 연 뒤, 
+1. 모듈을 적용 하고 싶은 HTML 파일을 연 뒤, 
 
 ```html
 <script src="https://cdn.intteam.co.kr/simplified-transform/simplified-transform.js">
